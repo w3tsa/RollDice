@@ -6,7 +6,7 @@ class Roll extends Component {
     super();
     this.state = {
       die1: "one",
-      die2: "one",
+      die2: "two",
       isRolling: false
     };
 
